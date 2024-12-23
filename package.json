@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@realjoshbyrnes/httpu-core": "npm:@jsr/realjoshbyrnes__httpu-core@^0.1.0"
+  }
+}
