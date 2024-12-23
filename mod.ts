@@ -8,4 +8,8 @@ export default class HttpuMulticast extends HttpuCore {
   protected get _defaultPath(): string {
     return '*';
   }
+
+  protected get _defaultProtocol(): string {
+    return 'httpmu:';
+  }
 }
