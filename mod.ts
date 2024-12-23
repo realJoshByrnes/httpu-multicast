@@ -3,7 +3,7 @@
  * @description This module provides the HttpuMulticast class which extends the HttpuCore class.
  */
 
-import HttpuCore from "./HttpuCore";
+import HttpuCore from "@realjoshbyrnes/httpu-core";
 
 /**
  * Class representing an HTTPU Multicast.
